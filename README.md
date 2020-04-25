@@ -1,1 +1,2 @@
+Who are you? Connor Gross, orginally from NJ. Came to TX for my undergrad at SMU. Did a MSF at UT Austin. I currently work as an Investment Analyst for a Wealth Management firm in Dallas. My careers goals are to move to the buyside in equities from my current position. I chose to pursue this class because I wanted to have more coding and quantitative knowledge for the purposes of data manipulation.
 # 1.3-Demo
